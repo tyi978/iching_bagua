@@ -1,0 +1,6 @@
+{
+  "name": "周易·数字化揲蓍",
+  "description": "一个遵循古法揲蓍演算与 AI 深度解卦的数字占卜程序。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
